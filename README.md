@@ -92,48 +92,6 @@ Detailed table displaying Pending, Rejected, Settled amounts and settlement rati
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Power BI Desktop (Latest version)
-- Microsoft Account with Power BI Service access
-- Data source credentials
-- Appropriate permissions for insurance data access
-
-### System Requirements
-
-- **OS**: Windows 10 or later
-- **RAM**: Minimum 4GB (8GB recommended)
-- **Storage**: 500MB free space
-- **Internet**: Required for publishing and sharing
-
----
-
-## 💻 Installation
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/zingong7/prism-insurance-dashboard.git
-cd prism-insurance-dashboard
-```
-
-### Step 2: Open in Power BI Desktop
-
-1. Launch Power BI Desktop
-2. Open the `.pbix` file from the cloned repository
-3. Enter data source credentials when prompted
-4. Click **Refresh** to load the data
-
-### Step 3: Publish to Power BI Service (Optional)
-
-1. Click **File** → **Publish** → **Publish to Power BI**
-2. Select your workspace
-3. Wait for publishing to complete
-4. Configure scheduled refresh if needed
-
----
 
 ## 🔒 Security Features
 
@@ -156,19 +114,6 @@ This dashboard implements RLS based on **PolicyType** to ensure users only acces
 2. **Automatic Enforcement**: Security rules apply automatically when users access the dashboard
 3. **Role Assignment**: Administrators assign users to roles in Power BI Service
 4. **Testing**: Use "View as Role" feature in Power BI Desktop to test security
-
-#### Setting Up RLS:
-
-**In Power BI Desktop:**
-1. Go to **Modeling** → **Manage Roles**
-2. View existing roles and their filter expressions
-3. Test roles using **Modeling** → **View as**
-
-**In Power BI Service:**
-1. Navigate to the dataset
-2. Click **Security** (•••)
-3. Add users/groups to appropriate roles
-4. Save changes
 
 ---
 
@@ -237,51 +182,3 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👥 Authors
-
-- **Adnan Mohiddin** - *Initial work* - [zingong7](https://github.com/zingong7)
-
----
-
-## 📧 Contact
-
-For questions or support:
-
-- **Email**: arsadnan75@gmail.com
-- **GitHub Issues**: [Create an issue](https://github.com/zingong7/prism-insurance-dashboard/issues)
-- **GitHub Profile**: [@zingong7](https://github.com/zingong7)
-
----
-
-## 🙏 Acknowledgments
-
-- Power BI Community for inspiration and best practices
-- Microsoft Documentation for technical guidance
-- PRISM Insurance Pvt. Ltd. for the use case
-
----
-
-## 📊 Project Status
-
-**Current Version**: 1.0  
-**Last Updated**: December 2025  
-**Status**: Active Development
-
-### Roadmap
-- [ ] Add predictive analytics for claim forecasting
-- [ ] Implement real-time data refresh
-- [ ] Create mobile-optimized layouts
-- [ ] Add customer segmentation analysis
-- [ ] Integrate external market data sources
-
----
-
-⭐ **If you find this project useful, please consider giving it a star!** ⭐
