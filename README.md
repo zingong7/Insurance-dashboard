@@ -14,9 +14,7 @@ A comprehensive Power BI dashboard for analyzing insurance data with interactive
 - [Installation](#installation)
 - [Security Features](#security-features)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
