@@ -160,18 +160,6 @@ The horizontal bar chart supports drill-through functionality for detailed analy
 
 ---
 
-## 📸 Screenshots
-
-> Add your dashboard screenshots here
-
-```
-![Main Dashboard](images/dashboard-main.png)
-![Drill-Through Page](images/drill-through.png)
-![Filters](images/filters-demo.png)
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
