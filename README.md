@@ -1,9 +1,5 @@
 # 📊 PRISM Insurance Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
-
 A comprehensive Power BI dashboard for analyzing insurance data with interactive visualizations, drill-through capabilities, and row-level security implementation.
 
 ---
